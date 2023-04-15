@@ -1,0 +1,6 @@
+{{- $ctx :=  .Page.Sites.First.Home }}
+{{- $content := `{{ partial "hb/modules/base/404" . }}` }}
+{{- $url := "404.html" | relURL }}
+{{- $page := resources.FromString $url $content | resources.ExecuteAsTemplate $url $ctx }}
+{{- warnf "%v" (.Page.Sites.First.GetPage "404") }}
+{{- $page.Publish }}

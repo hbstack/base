@@ -17,3 +17,6 @@ path = "github.com/hugomods/icons/vendors/bootstrap"
 types = ["docs"]
 # kinds = ["home"]
 # sections = ["docs", "notes"]
+
+[params.hugopress.modules.hb-base.hooks.body-end]
+cacheable = true
