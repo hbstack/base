@@ -7,6 +7,7 @@ github.com/hbstack/footer v0.2.1/go.mod h1:ldb4b95D/7NVWQWFTIngasypCA+QQQRj1I+1B
 github.com/hbstack/hb v0.4.0 h1:2HMS3S4s/jpYky9wcxn5AqLdQJ5FikbcCeYqGuLVz5Y=
 github.com/hbstack/hb v0.4.0/go.mod h1:37E1uTMQx1Hix+VdwlWkW74fi3ct5+KlCCBywv9l3Ac=
 github.com/hbstack/hb v0.5.0/go.mod h1:37E1uTMQx1Hix+VdwlWkW74fi3ct5+KlCCBywv9l3Ac=
+github.com/hbstack/hb v0.5.1/go.mod h1:qlNnPNO1MRsrxxDvFMz98DMFafaBgvtAfBYiteR3i1A=
 github.com/hbstack/header v0.1.13 h1:9siuekL+1m8GC7KS6xsGyPp9EIZRtu0Y0Dl8JMLTDy4=
 github.com/hbstack/header v0.1.13/go.mod h1:BRtu4Awm9tOa4b1wKzY8TZRhsm9IqVJh67CWnh09Yco=
 github.com/hbstack/header v0.1.15/go.mod h1:TsYY9wkDKwcj1c0hzar97DXWOYqa1NW0Qg0XqcV9Zx8=
