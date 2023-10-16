@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.2](https://github.com/hbstack/base/compare/v0.2.1...v0.2.2) (2023-10-16)
+
+
+### Styles 🎨
+
+* **sass:** change the hb-module-margin-bottom as 1.5rem by default ([912a8c6](https://github.com/hbstack/base/commit/912a8c67b356d549ddbffb89440f13cda1e09305))
+
 ## [0.2.1](https://github.com/hbstack/base/compare/v0.2.0...v0.2.1) (2023-08-21)
 
 
