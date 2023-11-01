@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0](https://github.com/hbstack/base/compare/v0.3.0...v0.4.0) (2023-11-01)
+
+
+### Features ✨
+
+* **i18n:** add Russian translations ([#88](https://github.com/hbstack/base/issues/88)) ([c9b7ba9](https://github.com/hbstack/base/commit/c9b7ba91efb96868768fae723154ceabc0b6cc3e))
+
 ## [0.3.0](https://github.com/hbstack/base/compare/v0.2.2...v0.3.0) (2023-10-21)
 
 
