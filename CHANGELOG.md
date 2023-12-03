@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.1](https://github.com/hbstack/base/compare/v0.4.0...v0.4.1) (2023-12-03)
+
+
+### Styles 🎨
+
+* set margin-bottom as .5rem for highlight code blocks ([#94](https://github.com/hbstack/base/issues/94)) ([97ac6d3](https://github.com/hbstack/base/commit/97ac6d3715d702b6f50f2d1178092d7f5912ee02))
+
 ## [0.4.0](https://github.com/hbstack/base/compare/v0.3.0...v0.4.0) (2023-11-01)
 
 
