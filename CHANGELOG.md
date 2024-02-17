@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.4.2](https://github.com/hbstack/base/compare/v0.4.1...v0.4.2) (2024-02-17)
+
+
+### Bug Fixes 🐞
+
+* **deps:** update dependency stylelint-scss to v6 ([8df7020](https://github.com/hbstack/base/commit/8df702048031080c613cbea2d51be9565a6686f7))
+
+
+### Styles 🎨
+
+* set overflow-wrap as break-word for hb-main class ([7f29c81](https://github.com/hbstack/base/commit/7f29c81c110382e6594de8812612be97a79b3c3c))
+
 ## [0.4.1](https://github.com/hbstack/base/compare/v0.4.0...v0.4.1) (2023-12-03)
 
 
