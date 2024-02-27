@@ -6,4 +6,8 @@ $hb-main-margin-bottom: 2rem;
     flex-direction: column;
     margin-bottom: $hb-main-margin-bottom;
     overflow-wrap: break-word;
+
+    &[data-layout="landing"] {
+        padding: 0;
+    }
 }
