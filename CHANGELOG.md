@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.3](https://github.com/hbstack/base/compare/v0.4.2...v0.4.3) (2024-02-27)
+
+
+### Bug Fixes 🐞
+
+* **landing:** remove padding from hb-main element for landing layout ([#134](https://github.com/hbstack/base/issues/134)) ([89b946f](https://github.com/hbstack/base/commit/89b946f00935ffa6f5ced65b4e6fdd2f8b3f1cc4))
+
 ## [0.4.2](https://github.com/hbstack/base/compare/v0.4.1...v0.4.2) (2024-02-17)
 
 
