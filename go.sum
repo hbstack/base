@@ -1,11 +1,10 @@
 github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20200 h1:SmpwwN3DNzJWbV+IT8gaFu07ENUFpCvKou5BHYUKuVs=
 github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20200/go.mod h1:kx8MBj9T7SFR8ZClWvKZPmmUxBaltkoXvnWlZZcSnYA=
 github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000/go.mod h1:mFberT6ZtcchrsDtfvJM7aAH2bDKLdOnruUHl0hlapI=
-github.com/hbstack/footer v0.3.0 h1:V0gz8UGRi8Bo2eltfd34BQTRS3xBNaJw8rw2GyAzCGA=
-github.com/hbstack/footer v0.3.0/go.mod h1:mYITqQNk4PJWxPciS4/r0bRuB3cDDOXZ3dGwIHuYTME=
+github.com/hbstack/footer v0.4.0 h1:FE9uYZLOy8VftzaH/6kytngZzcHV7XeGWYBPipy31VI=
 github.com/hbstack/footer v0.4.0/go.mod h1:5eB1ETT2WO5pNHObzRpFdwzrcQnHDGoBUOi+gtX/fa4=
-github.com/hbstack/hb v0.12.0 h1:9Jm9dtN+lm4+GgC64VI96klYdUDqf1vgIbtdP2Wc+Zc=
-github.com/hbstack/hb v0.12.0/go.mod h1:8liwfjapaZK09pXP6XqZ49GOqFPTn7H9jIZsy7S6esg=
+github.com/hbstack/hb v0.12.1 h1:9DLOBNB8NPb9JKCmcKui/+pAcAZw1NgV42vYi4ABLbo=
+github.com/hbstack/hb v0.12.1/go.mod h1:8liwfjapaZK09pXP6XqZ49GOqFPTn7H9jIZsy7S6esg=
 github.com/hbstack/header v0.14.1 h1:q+pW2godr5CEeEEhM1t7F+PyMcpVBA5Ymz7lFZc5psc=
 github.com/hbstack/header v0.14.1/go.mod h1:f0GHuDsvRYKmseNq10MAqX9yySxNQTKFNwW+z1p3YWg=
 github.com/hugomods/base v0.4.2 h1:CffAsy/2nxsMm1TazpnFC/Nb+IQnwed5yLAVvt1dmZQ=
@@ -18,6 +17,5 @@ github.com/hugomods/icons/vendors/bootstrap v0.5.5 h1:xXqHc6AeJGdc/HkV7sTyACIFu3
 github.com/hugomods/icons/vendors/bootstrap v0.5.5/go.mod h1:DtuYP+dG9Sttfsggd9k09h/hapZBsel6JJ1vNetkaCg=
 github.com/hugomods/seo/modules/base v0.1.0 h1:ZEkWuYeRJeQakBkBThO3N3lmGzOZoPixs4pDugJXfJk=
 github.com/hugomods/seo/modules/base v0.1.0/go.mod h1:qfm1Vga0eGxL+Szgz8Jopm+NtJ5PGov2a2dikTg1qSg=
-github.com/twbs/bootstrap v5.3.2+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
 github.com/twbs/icons v1.11.3 h1:XhvrQ1XDom9ggBbQx3wQCFGEr8qAQwQP/dAcw8OXMtA=
 github.com/twbs/icons v1.11.3/go.mod h1:GnRlymgVWp5iVJCMa0Me5b6tFyGpVc2bSxPMRGIJmyA=
