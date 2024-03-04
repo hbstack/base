@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.4](https://github.com/hbstack/base/compare/v0.4.3...v0.4.4) (2024-03-04)
+
+
+### Styles 🎨
+
+* remove gap between .hb-main and .hb-header on landing layout ([#137](https://github.com/hbstack/base/issues/137)) ([d5b9531](https://github.com/hbstack/base/commit/d5b95313097f8795bd86f9d34980ba5173efff58))
+
 ## [0.4.3](https://github.com/hbstack/base/compare/v0.4.2...v0.4.3) (2024-02-27)
 
 
