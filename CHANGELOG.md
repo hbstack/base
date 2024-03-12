@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.5](https://github.com/hbstack/base/compare/v0.4.4...v0.4.5) (2024-03-12)
+
+
+### Bug Fixes 🐞
+
+* add data-layout and data-section attributes to PurgeCSS safelist ([a0779b5](https://github.com/hbstack/base/commit/a0779b50b99a7f473f3fb4c6c42e6ffcb9006350))
+
 ## [0.4.4](https://github.com/hbstack/base/compare/v0.4.3...v0.4.4) (2024-03-04)
 
 
