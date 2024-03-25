@@ -2,6 +2,13 @@ code {
     background: var(--#{$prefix}secondary-bg);
     color: var(--#{$prefix}secondary-color);
     padding: 0.125rem 0.25rem;
+
+    &.code-inline {
+        @extend .chroma;
+        
+        background: inherit;
+        color: inherit;
+    }
 }
 
 pre {
