@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.6](https://github.com/hbstack/base/compare/v0.4.5...v0.4.6) (2024-03-25)
+
+
+### Styles 🎨
+
+* tweak inline code highlighting ([#148](https://github.com/hbstack/base/issues/148)) ([8eb8913](https://github.com/hbstack/base/commit/8eb8913342305a5df60bd15a5568567a1356aa00))
+
 ## [0.4.5](https://github.com/hbstack/base/compare/v0.4.4...v0.4.5) (2024-03-12)
 
 
