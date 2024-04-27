@@ -16,4 +16,6 @@ table {
 
 .table-responsive {
     @extend .mb-2;
+
+    scrollbar-width: thin;
 }
