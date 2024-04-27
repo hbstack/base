@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.5.1](https://github.com/hbstack/base/compare/v0.5.0...v0.5.1) (2024-04-27)
+
+
+### Styles 🎨
+
+* change scrollbar width to thin for responsive table ([9f98339](https://github.com/hbstack/base/commit/9f98339679fbe5d66cbcc8d6008cbaae6fbeccff))
+* set margin-bottom to mb-2 for responsive table ([8a24f0c](https://github.com/hbstack/base/commit/8a24f0c8f1970040dd7a2a37017c321fef72fa90))
+
 ## [0.5.0](https://github.com/hbstack/base/compare/v0.4.6...v0.5.0) (2024-04-23)
 
 
