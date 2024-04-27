@@ -13,3 +13,7 @@ table {
         @extend .table-striped;
     }
 }
+
+.table-responsive {
+    @extend .mb-2;
+}
