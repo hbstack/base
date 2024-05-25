@@ -4,7 +4,7 @@ code {
     padding: 0.125rem 0.25rem;
 
     &.code-inline {
-        @extend .chroma;
+        @extend .chroma !optional;
         
         background: inherit;
         color: inherit;
