@@ -18,7 +18,9 @@ path = "github.com/hugomods/icons/vendors/bootstrap"
 
 [params.hugopress.modules.hb-base.hooks.hb-body-begin]
 cacheable = false
+partial = "hb/modules/header/index"
 
 [params.hugopress.modules.hb-base.hooks.hb-body-end]
 weight = 1
-cacheable = false
+cacheable = true
+partial = "hb/modules/footer/index"
