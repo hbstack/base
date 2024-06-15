@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.6.1](https://github.com/hbstack/base/compare/v0.6.0...v0.6.1) (2024-06-15)
+
+
+### Performance Improvements ⚡️
+
+* include hook partials directly ([#164](https://github.com/hbstack/base/issues/164)) ([0bdd031](https://github.com/hbstack/base/commit/0bdd031e973b2ac5375f419d71d7a9dc185044f7))
+
 ## [0.6.0](https://github.com/hbstack/base/compare/v0.5.2...v0.6.0) (2024-05-28)
 
 
