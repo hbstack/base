@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.6.2](https://github.com/hbstack/base/compare/v0.6.1...v0.6.2) (2024-09-05)
+
+
+### Bug Fixes 🐞
+
+* **deps:** clean up unused TypeScript and Sass ([2466ddf](https://github.com/hbstack/base/commit/2466ddf15234ba993937797e18fb41aa17332526))
+
 ## [0.6.1](https://github.com/hbstack/base/compare/v0.6.0...v0.6.1) (2024-06-15)
 
 
